@@ -9,5 +9,5 @@ Code sends data to Mongo database see images below:
 
 ![Image of mongo](./image/Mongo_4.jpg)
 
-![Image of mongo](.image/Mongo_5.jpg)
+![Image of mongo](image/Mongo_5.jpg)
 
